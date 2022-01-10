@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DBMS, DSA, Machine Learning**
 
-- 💬 Ask me about **C++, DSA**
+- 💬 Ask me about **C++, DSA, PYTHON**
 
 - 📫 Email me at **saurabhkrsingh2001@gmail.com**
 
