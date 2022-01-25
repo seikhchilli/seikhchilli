@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seikhchilli&label=Profile%20views&color=0e75b6&style=flat" alt="seikhchilli" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itssaurabh2001" target="blank"><img src="https://img.shields.io/twitter/follow/itssaurabh2001?logo=twitter&style=for-the-badge" alt="itssaurabh2001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sadharan_coder" target="blank"><img src="https://img.shields.io/twitter/follow/itssaurabh2001?logo=twitter&style=for-the-badge" alt="itssaurabh2001" /></a> </p>
 
 - 🌱 I’m currently learning **DBMS, DSA, Machine Learning**
 
