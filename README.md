@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">Specializing in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seikhchilli&label=Profile%20views&color=0e75b6&style=flat" alt="seikhchilli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sadharan_coder" target="blank"><img src="https://img.shields.io/twitter/follow/sadharan_coder?logo=twitter&style=for-the-badge" alt="sadharan_coder" /></a> </p>
 
-- 🌱 I’m currently learning **DBMS, DSA, Machine Learning**
+- 🌱 I’m currently learning **DSA, Machine Learning**
 
 - 💬 Ask me about **C++, DSA, PYTHON**
 
